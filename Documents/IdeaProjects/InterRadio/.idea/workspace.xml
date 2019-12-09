@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="InterRadio 1.0:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="872ab307-d459-4e3b-b273-d1347665a8da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/New Internet Radio$StationPanel.coverage" NAME="StationPanel Coverage Results" MODIFIED="1481675973615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Window.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/New Internet Radio$MainWindow__1_.coverage" NAME="MainWindow (1) Coverage Results" MODIFIED="1481047102428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Window.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/New Internet Radio$Third.coverage" NAME="Third Coverage Results" MODIFIED="1480613544106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/New Internet Radio$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1482215247467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Window.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="New Internet Radio" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>containing</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1To7xWHTmSKsizBDaKRSAd2zEMO" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="new_internet_radio" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="186" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="358" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540758754490" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.39884394" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dropbox\Dropbox\New Internet Radio\src\meme" />
+      <recent name="$PROJECT_DIR$/lib/mac/lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Window" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/artifacts/InterRadioAlpha1_0Mac_jar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainWindow">
+    <configuration default="true" type="AndroidRunConfigurationType">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Window.MainWindow" />
+      <module name="New Internet Radio" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayControls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Window.PlayControls" />
+      <module name="New Internet Radio" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="customStationFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Window.customStationFrame" />
+      <module name="New Internet Radio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stationForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Window.stationForm" />
+      <module name="New Internet Radio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Window.stations" />
+      <module name="New Internet Radio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterRadio" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/App_Windows/InterRadio Alpha 1.0.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\alexr\Dropbox\New Internet Radio" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainWindow" />
+      <item itemvalue="Application.customStationFrame" />
+      <item itemvalue="Application.PlayControls" />
+      <item itemvalue="Application.stationForm" />
+      <item itemvalue="Application.stations" />
+      <item itemvalue="JAR Application.InterRadio" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainWindow" />
+        <item itemvalue="Application.customStationFrame" />
+        <item itemvalue="Application.stations" />
+        <item itemvalue="Application.stationForm" />
+        <item itemvalue="Application.PlayControls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="872ab307-d459-4e3b-b273-d1347665a8da" name="Default" comment="" />
+      <created>1480281119779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480281119779</updated>
+      <workItem from="1480281125589" duration="13942000" />
+      <workItem from="1480350778595" duration="10167000" />
+      <workItem from="1480385038705" duration="4392000" />
+      <workItem from="1480403899627" duration="3968000" />
+      <workItem from="1480436489609" duration="4241000" />
+      <workItem from="1480458044538" duration="5968000" />
+      <workItem from="1480608942673" duration="6916000" />
+      <workItem from="1480629250074" duration="10929000" />
+      <workItem from="1480702054000" duration="357000" />
+      <workItem from="1480703103932" duration="909000" />
+      <workItem from="1480704254745" duration="58000" />
+      <workItem from="1480712760124" duration="1887000" />
+      <workItem from="1480718355619" duration="721000" />
+      <workItem from="1480832564624" duration="402000" />
+      <workItem from="1480832973560" duration="357000" />
+      <workItem from="1480833366377" duration="69000" />
+      <workItem from="1480833439084" duration="199000" />
+      <workItem from="1480833641136" duration="322000" />
+      <workItem from="1480834022559" duration="87000" />
+      <workItem from="1480834128924" duration="1904000" />
+      <workItem from="1480880748815" duration="4065000" />
+      <workItem from="1480885625216" duration="2438000" />
+      <workItem from="1480888253426" duration="104000" />
+      <workItem from="1480888360961" duration="1221000" />
+      <workItem from="1480889850580" duration="16000" />
+      <workItem from="1480889956834" duration="1655000" />
+      <workItem from="1480920687657" duration="1058000" />
+      <workItem from="1480955611922" duration="62000" />
+      <workItem from="1480955756827" duration="65000" />
+      <workItem from="1480955827976" duration="874000" />
+      <workItem from="1480956732548" duration="80000" />
+      <workItem from="1480956859964" duration="979000" />
+      <workItem from="1480957869060" duration="871000" />
+      <workItem from="1480959001745" duration="287000" />
+      <workItem from="1480959344312" duration="446000" />
+      <workItem from="1480959874903" duration="82000" />
+      <workItem from="1480960125717" duration="44000" />
+      <workItem from="1480960180128" duration="131000" />
+      <workItem from="1480960321584" duration="53000" />
+      <workItem from="1480966115653" duration="154000" />
+      <workItem from="1480989015755" duration="1353000" />
+      <workItem from="1480990632162" duration="1359000" />
+      <workItem from="1480992084400" duration="2176000" />
+      <workItem from="1481001921212" duration="1263000" />
+      <workItem from="1481009822319" duration="132000" />
+      <workItem from="1481041311144" duration="4432000" />
+      <workItem from="1481045862021" duration="760000" />
+      <workItem from="1481046896516" duration="382000" />
+      <workItem from="1481057743416" duration="800000" />
+      <workItem from="1481098870345" duration="555000" />
+      <workItem from="1481127843331" duration="4155000" />
+      <workItem from="1481133872964" duration="522000" />
+      <workItem from="1481134783479" duration="346000" />
+      <workItem from="1481135173464" duration="599000" />
+      <workItem from="1481214148353" duration="2075000" />
+      <workItem from="1481216551841" duration="130000" />
+      <workItem from="1481216705511" duration="61000" />
+      <workItem from="1481217027493" duration="17000" />
+      <workItem from="1481217093708" duration="121000" />
+      <workItem from="1481217255379" duration="25000" />
+      <workItem from="1481217360950" duration="1044000" />
+      <workItem from="1481218467582" duration="391000" />
+      <workItem from="1481218886834" duration="29000" />
+      <workItem from="1481218950715" duration="204000" />
+      <workItem from="1481219227808" duration="2937000" />
+      <workItem from="1481258660994" duration="332000" />
+      <workItem from="1481259525842" duration="343000" />
+      <workItem from="1481423499138" duration="1162000" />
+      <workItem from="1481425019078" duration="1000" />
+      <workItem from="1481425294093" duration="453000" />
+      <workItem from="1481429663270" duration="2412000" />
+      <workItem from="1481432157221" duration="2241000" />
+      <workItem from="1481435340636" duration="214000" />
+      <workItem from="1481435826152" duration="481000" />
+      <workItem from="1481437362919" duration="1232000" />
+      <workItem from="1481507588638" duration="1196000" />
+      <workItem from="1481559806685" duration="2534000" />
+      <workItem from="1481578953239" duration="1268000" />
+      <workItem from="1481595029620" duration="2128000" />
+      <workItem from="1481601391897" duration="5020000" />
+      <workItem from="1481646176486" duration="1645000" />
+      <workItem from="1481648917797" duration="843000" />
+      <workItem from="1481650639080" duration="54000" />
+      <workItem from="1481663411031" duration="1583000" />
+      <workItem from="1481678620532" duration="150000" />
+      <workItem from="1481733629606" duration="74000" />
+      <workItem from="1481733900768" duration="18000" />
+      <workItem from="1481734133912" duration="864000" />
+      <workItem from="1481735314499" duration="8221000" />
+      <workItem from="1481754585827" duration="2716000" />
+      <workItem from="1481766984368" duration="1665000" />
+      <workItem from="1481768931424" duration="3759000" />
+      <workItem from="1481780115641" duration="1679000" />
+      <workItem from="1481818824223" duration="704000" />
+      <workItem from="1481819552356" duration="6141000" />
+      <workItem from="1481846795858" duration="1258000" />
+      <workItem from="1481869887034" duration="4986000" />
+      <workItem from="1481963272715" duration="570000" />
+      <workItem from="1482014118575" duration="621000" />
+      <workItem from="1482026662162" duration="8663000" />
+      <workItem from="1482094789207" duration="188000" />
+      <workItem from="1482095646146" duration="7490000" />
+      <workItem from="1482123291457" duration="5193000" />
+      <workItem from="1482163989003" duration="726000" />
+      <workItem from="1482164830326" duration="36000" />
+      <workItem from="1482164893263" duration="4908000" />
+      <workItem from="1482202088680" duration="2952000" />
+      <workItem from="1482205131719" duration="2106000" />
+      <workItem from="1482211980101" duration="8873000" />
+      <workItem from="1482221188819" duration="22000" />
+      <workItem from="1482221590644" duration="2227000" />
+      <workItem from="1482250470288" duration="1412000" />
+      <workItem from="1482251997170" duration="137000" />
+      <workItem from="1482252174158" duration="34000" />
+      <workItem from="1482252276223" duration="75000" />
+      <workItem from="1482252374004" duration="57000" />
+      <workItem from="1482252499681" duration="94000" />
+      <workItem from="1482254749602" duration="11000" />
+      <workItem from="1482254852788" duration="638000" />
+      <workItem from="1482255516869" duration="39000" />
+      <workItem from="1482255646723" duration="253000" />
+      <workItem from="1482256798060" duration="1417000" />
+      <workItem from="1482259751390" duration="1649000" />
+      <workItem from="1482276542396" duration="611000" />
+      <workItem from="1482287664091" duration="8000" />
+      <workItem from="1482436849847" duration="1671000" />
+      <workItem from="1482440503800" duration="278000" />
+      <workItem from="1482554677014" duration="800000" />
+      <workItem from="1482711141076" duration="853000" />
+      <workItem from="1482976881940" duration="57000" />
+      <workItem from="1483320713224" duration="95000" />
+      <workItem from="1483320910447" duration="23000" />
+      <workItem from="1483527198437" duration="151000" />
+      <workItem from="1483610916304" duration="1156000" />
+      <workItem from="1484267992256" duration="172000" />
+      <workItem from="1485233664432" duration="17000" />
+      <workItem from="1490506651730" duration="26000" />
+      <workItem from="1495071850322" duration="1080000" />
+      <workItem from="1540758687379" duration="325000" />
+      <workItem from="1540767808824" duration="255000" />
+      <workItem from="1574114842876" duration="24000" />
+      <workItem from="1574114918802" duration="2000" />
+      <workItem from="1574115138455" duration="101000" />
+      <workItem from="1574115419894" duration="496000" />
+      <workItem from="1574145350870" duration="1173000" />
+      <workItem from="1574179782037" duration="161000" />
+      <workItem from="1574220030816" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MetaUpdater.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Window/PlayControls.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Window/CountryForm.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="url" />
+        <watch expression="((HttpInputStream)is).in" custom="sun.net.www.protocol.http.HttpURLConnection.HttpInputStream" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>InterRadio 1.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39884394" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39884394" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39884394" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>New Internet Radio</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39884394" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.swinglabs:swingx:1.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39884394" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

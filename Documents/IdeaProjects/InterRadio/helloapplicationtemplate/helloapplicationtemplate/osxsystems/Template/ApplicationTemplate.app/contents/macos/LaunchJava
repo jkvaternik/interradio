@@ -1,0 +1,5 @@
+appMacOSDir=$(cd “$(dirname “$0”)”; pwd)
+cd $appMacDir
+
+java -cp lib/helloworld.jar com.pumaj.mypackage.HelloWorld arg0 arg1 arg2
+

@@ -1,0 +1,16 @@
+Completed:
+	Alpha 1.0 Application & User Agreement
+Current:
+	Finish country selection
+	Favorites
+		List and Indentifier
+	User-inputed stations
+
+Stretch:
+	Multi-Genre Selection
+	DVR/Seeking
+	Country Info/Photos
+		
+
+BUGS:
+	

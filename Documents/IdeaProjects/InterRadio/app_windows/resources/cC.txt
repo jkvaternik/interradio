@@ -1,0 +1,28 @@
+Belgium;50,0,0
+Croatia;0,50,0
+Denmark;0,0,50
+France;0,255,234
+Germany;50,50,0
+Greece;0,50,50
+Ireland;50,0,50
+Italy;100,0,0
+Netherlands;0,100,0
+Norway;0,0,100
+Spain;255,252,0
+Sweden;100,100,0
+Switzerland;0,100,100
+United Kingdom;252,0,255
+Australia;100,0,100
+New Zealand;150,0,0
+Papua New Guinea;0,150,0
+Canada;59,99,13
+Mexico;255,144,0
+United States;0,0,255
+Argentina;0,0,150
+Brazil;150,150,0
+Colombia;36,255,0
+Israel;0,150,150
+Russia;255,0,0
+Algeria;150,0,150
+Morocco;200,0,0
+Zimbabwe;0,200,0

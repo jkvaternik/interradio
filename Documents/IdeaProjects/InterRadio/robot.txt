@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/13061122/getting-rgb-value-from-under-mouse-cursor

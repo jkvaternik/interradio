@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_new_internet_radio" default="compile.module.new_internet_radio">
+  <dirname property="module.new_internet_radio.basedir" file="${ant.file.module_new_internet_radio}"/>
+  
+  <property name="module.jdk.home.new_internet_radio" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.new_internet_radio" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.new_internet_radio" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.new_internet_radio" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="new_internet_radio.output.dir" value="${module.new_internet_radio.basedir}/out/production/New Internet Radio"/>
+  <property name="new_internet_radio.testoutput.dir" value="${module.new_internet_radio.basedir}/out/test/New Internet Radio"/>
+  
+  <path id="new_internet_radio.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="new_internet_radio.module.production.classpath">
+    <path refid="${module.jdk.classpath.new_internet_radio}"/>
+    <path refid="library.uk.co.caprica:vlcj:3.10.1.classpath"/>
+    <path refid="library.net.java.dev.jna:platform:3.5.2.classpath"/>
+    <path refid="library.org.slf4j:slf4j-nop:1.7.21.classpath"/>
+    <path refid="library.org.apache.commons:commons-exec:1.3.classpath"/>
+    <path refid="library.com.abercap:mediainfo-java-api:1.0.0.release.classpath"/>
+    <path refid="library.net.java.dev.jna:jna:3.5.2.classpath"/>
+    <path refid="library.org.apache.poi:poi-ooxml:3.15.classpath"/>
+  </path>
+  
+  <path id="new_internet_radio.runtime.production.module.classpath">
+    <pathelement location="${new_internet_radio.output.dir}"/>
+    <path refid="library.uk.co.caprica:vlcj:3.10.1.classpath"/>
+    <path refid="library.net.java.dev.jna:platform:3.5.2.classpath"/>
+    <path refid="library.org.slf4j:slf4j-nop:1.7.21.classpath"/>
+    <path refid="library.org.apache.commons:commons-exec:1.3.classpath"/>
+    <path refid="library.com.abercap:mediainfo-java-api:1.0.0.release.classpath"/>
+    <path refid="library.net.java.dev.jna:jna:3.5.2.classpath"/>
+    <path refid="library.org.apache.poi:poi-ooxml:3.15.classpath"/>
+  </path>
+  
+  <path id="new_internet_radio.module.classpath">
+    <path refid="${module.jdk.classpath.new_internet_radio}"/>
+    <pathelement location="${new_internet_radio.output.dir}"/>
+    <path refid="library.uk.co.caprica:vlcj:3.10.1.classpath"/>
+    <path refid="library.net.java.dev.jna:platform:3.5.2.classpath"/>
+    <path refid="library.org.slf4j:slf4j-nop:1.7.21.classpath"/>
+    <path refid="library.org.apache.commons:commons-exec:1.3.classpath"/>
+    <path refid="library.com.abercap:mediainfo-java-api:1.0.0.release.classpath"/>
+    <path refid="library.net.java.dev.jna:jna:3.5.2.classpath"/>
+    <path refid="library.org.apache.poi:poi-ooxml:3.15.classpath"/>
+  </path>
+  
+  <path id="new_internet_radio.runtime.module.classpath">
+    <pathelement location="${new_internet_radio.testoutput.dir}"/>
+    <pathelement location="${new_internet_radio.output.dir}"/>
+    <path refid="library.uk.co.caprica:vlcj:3.10.1.classpath"/>
+    <path refid="library.net.java.dev.jna:platform:3.5.2.classpath"/>
+    <path refid="library.org.slf4j:slf4j-nop:1.7.21.classpath"/>
+    <path refid="library.org.apache.commons:commons-exec:1.3.classpath"/>
+    <path refid="library.com.abercap:mediainfo-java-api:1.0.0.release.classpath"/>
+    <path refid="library.net.java.dev.jna:jna:3.5.2.classpath"/>
+    <path refid="library.org.apache.poi:poi-ooxml:3.15.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.new_internet_radio">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.new_internet_radio">
+    <patternset refid="excluded.from.module.new_internet_radio"/>
+  </patternset>
+  
+  <path id="new_internet_radio.module.sourcepath">
+    <dirset dir="${module.new_internet_radio.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.new_internet_radio" depends="compile.module.new_internet_radio.production,compile.module.new_internet_radio.tests" description="Compile module New Internet Radio"/>
+  
+  <target name="compile.module.new_internet_radio.production" depends="register.custom.compilers" description="Compile module New Internet Radio; production classes">
+    <mkdir dir="${new_internet_radio.output.dir}"/>
+    <javac2 destdir="${new_internet_radio.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.new_internet_radio}/javac">
+      <compilerarg line="${compiler.args.new_internet_radio}"/>
+      <bootclasspath refid="new_internet_radio.module.bootclasspath"/>
+      <classpath refid="new_internet_radio.module.production.classpath"/>
+      <src refid="new_internet_radio.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.new_internet_radio"/>
+    </javac2>
+    
+    <copy todir="${new_internet_radio.output.dir}">
+      <fileset dir="${module.new_internet_radio.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.new_internet_radio.tests" depends="register.custom.compilers,compile.module.new_internet_radio.production" description="compile module New Internet Radio; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.new_internet_radio" description="cleanup module">
+    <delete dir="${new_internet_radio.output.dir}"/>
+    <delete dir="${new_internet_radio.testoutput.dir}"/>
+  </target>
+</project>
